@@ -1,0 +1,6 @@
+experiment,comparison,change,auc_difference
+Logistic with categorical IDs,Logistic baseline,Categorical ID encoding,0.018041876452112082
+Logistic with engineered features,Logistic with categorical IDs,Engineered features,0.008565641807948055
+Conservative engineered logistic,Conservative logistic,Conservative engineered features,0.01250018774697681
+Exploratory gradient boosting,Conservative gradient boosting,Seven uncertain fields included,0.07131120936991242
+Regularized conservative boosting,Conservative gradient boosting,Boosting parameter changes,0.009830546354527292

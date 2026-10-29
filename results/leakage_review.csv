@@ -1,0 +1,30 @@
+feature,decision,availability
+id,Drop identifier,"Identifier, not a predictor"
+hotel,Retain provisionally; review timing,Unverified at booking creation
+lead_time,Retain provisionally; review timing,Unverified at booking creation
+arrival_date_year,Retain provisionally; review timing,Unverified at booking creation
+arrival_date_month,Retain provisionally; review timing,Unverified at booking creation
+arrival_date_week_number,Retain provisionally; review timing,Unverified at booking creation
+arrival_date_day_of_month,Retain provisionally; review timing,Unverified at booking creation
+stays_in_weekend_nights,Retain provisionally; review timing,Unverified at booking creation
+stays_in_week_nights,Retain provisionally; review timing,Unverified at booking creation
+adults,Retain provisionally; review timing,Unverified at booking creation
+children,Retain provisionally; review timing,Unverified at booking creation
+babies,Retain provisionally; review timing,Unverified at booking creation
+meal,Retain provisionally; review timing,Unverified at booking creation
+country,Exclude from conservative model,Unverified at booking creation
+market_segment,Retain provisionally; review timing,Unverified at booking creation
+distribution_channel,Retain provisionally; review timing,Unverified at booking creation
+is_repeated_guest,Retain provisionally; review timing,Unverified at booking creation
+previous_cancellations,Retain provisionally; review timing,Unverified at booking creation
+previous_bookings_not_canceled,Retain provisionally; review timing,Unverified at booking creation
+reserved_room_type,Retain provisionally; review timing,Unverified at booking creation
+booking_changes,Exclude from conservative model,Unverified at booking creation
+deposit_type,Exclude from conservative model,Unverified at booking creation
+agent,Exclude from conservative model,Unverified at booking creation
+company,Exclude from conservative model,Unverified at booking creation
+days_in_waiting_list,Exclude from conservative model,Unverified at booking creation
+customer_type,Retain provisionally; review timing,Unverified at booking creation
+adr,Retain provisionally; review timing,Unverified at booking creation
+required_car_parking_spaces,Retain provisionally; review timing,Unverified at booking creation
+total_of_special_requests,Exclude from conservative model,Unverified at booking creation

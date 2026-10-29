@@ -1,0 +1,20 @@
+{
+  "status": "Technically validated DRAFT; timing/model review pending",
+  "candidate": "Regularized conservative boosting",
+  "rows": 35817,
+  "columns": [
+    "id",
+    "is_canceled"
+  ],
+  "sha256": "a479fc4e77aa9df51009be1bef6d5832a18f3728d5a826603478b18b5eee0f24",
+  "checked_at_utc": "2026-10-29T16:51:14.542095+00:00",
+  "checks": [
+    "Exact sample ID order",
+    "Complete unique test IDs",
+    "35,817 rows",
+    "Finite continuous probabilities in [0,1]",
+    "CSV read-back validation"
+  ],
+  "kaggle_upload": "Not confirmed",
+  "canvas_upload": "Not confirmed"
+}

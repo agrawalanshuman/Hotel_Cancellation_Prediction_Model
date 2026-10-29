@@ -1,4 +1,0 @@
-# Business interpretation
-ROC-AUC evaluates ranking independent of a decision threshold. Accuracy depends on a threshold and prevalence. Brier loss, log loss and a reliability plot assess probability quality. Summed probabilities estimate expected cancellations only under suitable calibration and a stable deployment population. Capacity decisions also require room-level capacity, costs and uncertainty that these files do not establish.
-
-The three professor puzzles are hypotheses: Non Refund ~99.4% vs refundable ~20%; Portugal ~57% vs elsewhere ~24%; requests ~48%,22%,7% at 0,1,5. Compute denominators, missing categories and exact definitions; No Deposit is not necessarily “refundable.” Country and policy associations can reflect market mix, historical coding and changing reservation state. They do not demonstrate causation. Avoid discriminatory or unsupported policy recommendations.

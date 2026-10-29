@@ -1,19 +1,15 @@
+# Private competition inputs and row-level predictions
+data/*.csv
+classwork/*submission*.csv
+results/*predictions*.csv
+*.joblib
+*.npy
+.env
+kaggle.json
 __pycache__/
 .pytest_cache/
 .ipynb_checkpoints/
 .venv/
-.env
-kaggle.json
-data/raw/*
-!data/raw/.gitkeep
-data/processed/*
-!data/processed/.gitkeep
-results/models/*
-!results/models/.gitkeep
-results/predictions/*
-!results/predictions/.gitkeep
-*.joblib
 *.log
 
-# Retain OOF arrays privately; metrics/experiment logs are shareable review artifacts.
-results/reports/*/oof.npy
+local_submission_history/

@@ -1,0 +1,99 @@
+{
+  "checks_passed": 23,
+  "checks": [
+    {
+      "check": "One structurally valid notebook",
+      "status": "PASS"
+    },
+    {
+      "check": "All 10 code cells completed without errors",
+      "status": "PASS"
+    },
+    {
+      "check": "Unneeded scaffold folders removed",
+      "status": "PASS"
+    },
+    {
+      "check": "No .gitkeep placeholders",
+      "status": "PASS"
+    },
+    {
+      "check": "No timestamp-named result folders",
+      "status": "PASS"
+    },
+    {
+      "check": "Optional Python script has no src dependency",
+      "status": "PASS"
+    },
+    {
+      "check": "Python script matches notebook code",
+      "status": "PASS"
+    },
+    {
+      "check": "Ten real model-comparison results",
+      "status": "PASS"
+    },
+    {
+      "check": "Fresh model scores reproduce prior measurements",
+      "status": "PASS"
+    },
+    {
+      "check": "Original and fresh experiment histories retained",
+      "status": "PASS"
+    },
+    {
+      "check": "Actual input row counts, schemas, IDs and known-leak checks",
+      "status": "PASS"
+    },
+    {
+      "check": "35,817-row draft CSV contract",
+      "status": "PASS"
+    },
+    {
+      "check": "Reject invalid submission: nan",
+      "status": "PASS"
+    },
+    {
+      "check": "Reject invalid submission: infinite",
+      "status": "PASS"
+    },
+    {
+      "check": "Reject invalid submission: outside_range",
+      "status": "PASS"
+    },
+    {
+      "check": "Reject invalid submission: labels",
+      "status": "PASS"
+    },
+    {
+      "check": "Reject invalid submission: duplicate_ids",
+      "status": "PASS"
+    },
+    {
+      "check": "Reject invalid submission: wrong_order",
+      "status": "PASS"
+    },
+    {
+      "check": "Draft submission hash matches validation report",
+      "status": "PASS"
+    },
+    {
+      "check": "Memo draft: one page, 11pt",
+      "status": "PASS"
+    },
+    {
+      "check": "AI disclosure retained in notebook and memo",
+      "status": "PASS"
+    },
+    {
+      "check": "Original figure collection retained",
+      "status": "PASS"
+    },
+    {
+      "check": "README links to the single notebook in Colab",
+      "status": "PASS"
+    }
+  ],
+  "academic_status": "DRAFT: timing/model review and uploads pending",
+  "executed_code_cells": 10
+}
