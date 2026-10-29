@@ -48,9 +48,4 @@ python hotel_cancellation_analysis.py
 
 Data checks require 83,573 training rows and 35,817 test rows. The submission check verifies id,is_canceled columns, unique complete test IDs in sample order, and finite continuous probabilities between 0 and 1. Competition data and row-level prediction CSVs are kept private and excluded from Git. No external datasets are used.
 
-## Class submission status
-The four-member team exception and team name were confirmed by the user. Memo and presentation are **DRAFTS**. The notebook generates a genuine, technically validated draft CSV locally; it remains pending timing/model review. No Kaggle/Canvas upload or public/private score is claimed.
-
-Initial Kaggle submission: **November 2, 2026**. Final Kaggle CSV and identical Canvas file: **November 9, 4:30 PM ET**. Memo PDF: **November 9, 11:59 PM ET**. Presentation: **November 9**, three minutes. At least one random-forest submission is required; maximum five Kaggle attempts/day. Verify Suffolk-email registration and private competition rules before submitting.
-
-AI assistance: **ChatGPT and OpenAI coding tools** supported coding, debugging, analysis and drafting. Team verification of the work is pending.
+AI assistance: **ChatGPT and OpenAI coding tools** supported coding and debugging
