@@ -6,3 +6,5 @@ Saved draft fields: install_script and start_skill (activation, writable cache p
 The selected repository initially had no remote refs/main and an unborn local work branch. All project files were created locally under the existing checkout after the coding request. Nothing was committed or pushed. Future GitHub publication needs deliberate review of source/docs and exclusion of private data/models/predictions/OOF arrays. Colab repository links are not claimed live. Team name/eligibility reflect user confirmation, not an independently accessed instructor document.
 
 Final verification: 27 passed, 2 intentionally skipped, 0 failed; EDA/leakage/comparison notebooks executed. Official GitHub syllabus/session source subsequently reviewed; private Kaggle rules and Drive references remain blocked. Two conservative candidate CSVs (hist and forest) were technically validated. Additional submission requirements recorded in audit.
+
+Current project directory is /workspace/Hotel_Cancellation_Prediction_Model, directly at the repository root. Saved install/start instructions were updated for this location.

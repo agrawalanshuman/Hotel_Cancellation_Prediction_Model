@@ -1,5 +1,6 @@
-Exact intended project files present (private local artifacts included; incidental caches excluded):
+Exact GitHub file list; private local artifacts omitted:
 .env.example
+.gitattributes
 .gitignore
 CONTRIBUTING.md
 PROJECT_OVERVIEW.md
@@ -23,13 +24,12 @@ classwork/README.md
 data/README.md
 data/processed/.gitkeep
 data/raw/.gitkeep
-data/raw/sample_submission.csv
-data/raw/test.csv
-data/raw/train.csv
 docs/BUSINESS_INTERPRETATION.md
 docs/CLOUD_ENVIRONMENT.md
 docs/FILE_MANIFEST.txt
 docs/FINAL_QUALITY_CHECK.md
+docs/GITHUB_FILE_MANIFEST.txt
+docs/GITHUB_PUBLICATION.md
 docs/GOOGLE_COLAB_GUIDE.md
 docs/MODELING_DECISIONS.md
 docs/OFFICIAL_REFERENCE_REVIEW.md
@@ -51,6 +51,8 @@ notebooks/06_Gradient_Boosting.ipynb
 notebooks/07_Model_Comparison.ipynb
 notebooks/08_Final_Colab_Pipeline.ipynb
 notebooks/README.md
+pytest.ini
+readme
 requirements-lock.txt
 requirements.txt
 results/figures/.gitkeep
@@ -88,34 +90,20 @@ results/figures/rate_market_segment.png
 results/figures/rate_previous_cancellations.png
 results/figures/rate_total_of_special_requests.png
 results/models/.gitkeep
-results/models/20261029T161113_3fcd42ec_PROVISIONAL.joblib
-results/models/20261029T161211_5b412bcb_PROVISIONAL.joblib
 results/predictions/.gitkeep
-results/predictions/20261029T161113_3fcd42ec_PROVISIONAL.csv
-results/predictions/20261029T161211_5b412bcb_PROVISIONAL.csv
 results/reports/.gitkeep
 results/reports/20261029T161031_04786ac0/metrics.json
-results/reports/20261029T161031_04786ac0/oof.npy
 results/reports/20261029T161038_d7166664/metrics.json
-results/reports/20261029T161038_d7166664/oof.npy
 results/reports/20261029T161045_0d0b843c/metrics.json
-results/reports/20261029T161045_0d0b843c/oof.npy
 results/reports/20261029T161054_bc83b0ea/metrics.json
-results/reports/20261029T161054_bc83b0ea/oof.npy
 results/reports/20261029T161101_e33cd3c8/metrics.json
-results/reports/20261029T161101_e33cd3c8/oof.npy
 results/reports/20261029T161108_767590c4/metrics.json
-results/reports/20261029T161108_767590c4/oof.npy
 results/reports/20261029T161113_3fcd42ec/candidate_validation.json
 results/reports/20261029T161113_3fcd42ec/metrics.json
-results/reports/20261029T161113_3fcd42ec/oof.npy
 results/reports/20261029T161146_99c98a51/metrics.json
-results/reports/20261029T161146_99c98a51/oof.npy
 results/reports/20261029T161157_8fd6095c/metrics.json
-results/reports/20261029T161157_8fd6095c/oof.npy
 results/reports/20261029T161211_5b412bcb/candidate_validation.json
 results/reports/20261029T161211_5b412bcb/metrics.json
-results/reports/20261029T161211_5b412bcb/oof.npy
 results/reports/EDA_INTERPRETATION.md
 results/reports/MODELING_RESULTS.md
 results/reports/by_agent.csv
@@ -139,9 +127,7 @@ results/reports/missingness.csv
 results/reports/notebook_execution.json
 results/reports/observed_feature_audit.csv
 results/reports/puzzles.json
-results/reports/pytest.log
 results/reports/quality_control.json
-results/reports/quality_control.log
 results/reports/robustness.json
 results/reports/run_index.json
 results/reports/verification_summary.json
