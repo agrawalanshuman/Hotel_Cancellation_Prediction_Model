@@ -1,0 +1,42 @@
+[
+  {
+    "check": "competition_data",
+    "status": "PASS",
+    "evidence": "row/schema/target/IDs/known-leak checks passed"
+  },
+  {
+    "check": "team_eligibility",
+    "status": "PASS",
+    "evidence": "User confirmed instructor approval for four on October 29, 2026; document not independently reviewed"
+  },
+  {
+    "check": "team_name",
+    "status": "PASS",
+    "evidence": "Ctrl_+_Alt_+_Defeat"
+  },
+  {
+    "check": "final_csv",
+    "status": "PENDING",
+    "evidence": "Not exported; reviewed model selection required"
+  },
+  {
+    "check": "memo_pdf",
+    "status": "PENDING",
+    "evidence": "Final reviewed PDF absent"
+  },
+  {
+    "check": "timing_approval",
+    "status": "PENDING",
+    "evidence": "Prediction moment and source timestamps require review"
+  },
+  {
+    "check": "official_reference_review",
+    "status": "BLOCKED",
+    "evidence": "Non-starter course/Kaggle/Drive pages blocked by proxy"
+  },
+  {
+    "check": "kaggle_canvas_uploads",
+    "status": "PENDING",
+    "evidence": "No externally confirmed uploads"
+  }
+]

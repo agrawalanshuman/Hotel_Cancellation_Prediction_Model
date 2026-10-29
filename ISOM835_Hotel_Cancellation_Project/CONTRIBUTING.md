@@ -1,0 +1,2 @@
+# Contributing
+Keep raw competition data and credentials private. Work in this existing isolated checkout; no worktree is needed. Use the pinned virtual environment and run pytest before sharing changes. Preserve experiment history and use the same seed/folds for paired comparisons. Never report an instructor reference score as a measured run. Explain feature timing and record exclusions. Changes to official deliverables require team review; do not replace existing files silently. Do not upload, commit restricted data, or claim contributions for another person.

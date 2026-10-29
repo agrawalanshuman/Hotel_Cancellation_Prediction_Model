@@ -1,0 +1,20 @@
+{
+  "status": "GENERATED_AND_TECHNICALLY_VALIDATED_NOT_APPROVED",
+  "experiment_id": "20261029T161113_3fcd42ec",
+  "rows": 35817,
+  "columns": [
+    "id",
+    "is_canceled"
+  ],
+  "sha256": "da4a35644e7bb9bcaf6bbd6b61b20c89335c744d079231e7e52dd09a9b48b7c7",
+  "timestamp_utc": "2026-10-29T16:20:36.195132+00:00",
+  "probability_min": 0.002815327067394881,
+  "probability_max": 1.0,
+  "data_hashes": {
+    "train.csv": "10263e4883c4b82ee89819b483f97e628bdfec4f04368f6d8b2b02649c9cd2a5",
+    "test.csv": "2384cd58a466c366d91d91c1382414649c818db89312269a428066a5b4c3bf1e",
+    "sample_submission.csv": "0d1373c1acdd285b02c9a830c559c678bfeaeb3f498b5f66feba2291b46334b5"
+  },
+  "checks": "Exact row count; sample ID order; test ID coverage; unique IDs; finite continuous probabilities within [0,1]; read-back CSV validation",
+  "limitations": "Timing and final model approval pending. No Kaggle/Canvas upload."
+}

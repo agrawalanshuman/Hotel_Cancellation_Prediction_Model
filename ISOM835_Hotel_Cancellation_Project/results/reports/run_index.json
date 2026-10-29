@@ -1,0 +1,12 @@
+{
+  "professor_baseline": "20261029T161031_04786ac0",
+  "categorical_ids": "20261029T161038_d7166664",
+  "engineered_logistic": "20261029T161045_0d0b843c",
+  "conservative_logistic": "20261029T161054_bc83b0ea",
+  "conservative_engineered_logistic": "20261029T161101_e33cd3c8",
+  "decision_tree": "20261029T161108_767590c4",
+  "random_forest": "20261029T161113_3fcd42ec",
+  "hist_conservative": "20261029T161146_99c98a51",
+  "hist_exploratory": "20261029T161157_8fd6095c",
+  "hist_regularized": "20261029T161211_5b412bcb"
+}

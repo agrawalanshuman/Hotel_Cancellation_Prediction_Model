@@ -1,0 +1,33 @@
+{
+  "pytest": {
+    "passed": 27,
+    "skipped": 2,
+    "failed": 0,
+    "skips": [
+      "Final approved CSV absent",
+      "Final approved memo PDF absent"
+    ],
+    "warnings": "17 upstream deprecation/optimizer warnings; no failing assertions"
+  },
+  "notebook_structure": {
+    "passed": 9
+  },
+  "notebook_execution": {
+    "passed": [
+      "01_Data_Exploration.ipynb",
+      "02_Leakage_Investigation.ipynb",
+      "07_Model_Comparison.ipynb"
+    ],
+    "other_notebooks": "Structurally validated; training workflows executed through equivalent source modules. Full final notebook awaits genuine review selection."
+  },
+  "primary_experiments": 10,
+  "primary_folds": 50,
+  "secondary_validation": [
+    "5 held-out-agent folds",
+    "5 estimated-booking-time folds"
+  ],
+  "candidate_csv": "Two 35,817-row conservative hist/forest candidates passed technical validation; neither is final approved",
+  "draft_pdf": "PASS 1 page, 11pt, letter, one-inch margins; not finalized",
+  "academic_ready": false,
+  "official_sources": "Official GitHub syllabus and five sessions reviewed; private Kaggle rules and Drive references remain inaccessible"
+}
